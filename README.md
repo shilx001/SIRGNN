@@ -5,4 +5,4 @@ The python implementation of paper "Session-based Interactive Recommendation via
 Python 3.5, Tensorflow 1.4, Pandas, numba
 
 ## Run
-python run_huffman.py
+python run_sirtpgr.py
